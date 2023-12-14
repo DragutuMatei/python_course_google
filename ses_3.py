@@ -47,10 +47,6 @@ print(recursive_function([1,2,3,4,5,6,7,8,9,10]))
 
 def citire_si_testare():
     n = input("Introdu un numar: ")
-    # if type(n) == int or type(n) == float:
-    #     return n
-    # else:
-    #     return 0
     try:
         return int(n)
     except ValueError as e:
