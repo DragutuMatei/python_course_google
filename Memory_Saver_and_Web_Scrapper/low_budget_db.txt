@@ -1,0 +1,176 @@
+Proiectul Public "python_course_google" a fost scris in Python
+https://github.com/DragutuMatei/python_course_google
+
+
+Proiectul Public "backend_zen" a fost scris in Python
+https://github.com/DragutuMatei/backend_zen
+
+
+Proiectul Public "admin_zen" a fost scris in JavaScript
+https://github.com/DragutuMatei/admin_zen
+
+
+Proiectul Public "doru" a fost scris in HTML
+https://github.com/DragutuMatei/doru
+
+
+Proiectul Public "razvan" a fost scris in HTML
+https://github.com/DragutuMatei/razvan
+
+
+Proiectul Public "kozel" a fost scris in JavaScript
+https://github.com/DragutuMatei/kozel
+
+
+Proiectul Public "fiirbots" a fost scris in JavaScript
+https://github.com/DragutuMatei/fiirbots
+
+
+Proiectul Public "fiirbotss" nu are precizat limbajul de programare
+https://github.com/DragutuMatei/fiirbotss
+
+
+Proiectul Public "fastlane" a fost scris in JavaScript
+https://github.com/DragutuMatei/fastlane
+
+
+Proiectul Public "mockup_fastlane" a fost scris in JavaScript
+https://github.com/DragutuMatei/mockup_fastlane
+
+
+Proiectul Public "gitbook_fastlane" a fost scris in JavaScript
+https://github.com/DragutuMatei/gitbook_fastlane
+
+
+Proiectul Public "bio" a fost scris in HTML
+https://github.com/DragutuMatei/bio
+
+
+Proiectul Public "navisil_react" a fost scris in JavaScript
+https://github.com/DragutuMatei/navisil_react
+
+
+Proiectul Public "navisil_server" a fost scris in JavaScript
+https://github.com/DragutuMatei/navisil_server
+
+
+Proiectul Public "no_ideea_what_im_doin" a fost scris in JavaScript
+https://github.com/DragutuMatei/no_ideea_what_im_doin
+
+
+Proiectul Public "ecomerce" a fost scris in HTML
+https://github.com/DragutuMatei/ecomerce
+
+
+Proiectul Public "navisil" a fost scris in HTML
+https://github.com/DragutuMatei/navisil
+
+
+Proiectul Public "hacks" a fost scris in JavaScript
+https://github.com/DragutuMatei/hacks
+
+
+Proiectul Public "proiect_faculta" a fost scris in JavaScript
+https://github.com/DragutuMatei/proiect_faculta
+
+
+Proiectul Public "spania" a fost scris in HTML
+https://github.com/DragutuMatei/spania
+
+
+Proiectul Public "danielSite" a fost scris in CSS
+https://github.com/DragutuMatei/danielSite
+
+
+Proiectul Public "fcs_back" a fost scris in JavaScript
+https://github.com/DragutuMatei/fcs_back
+
+
+Proiectul Public "blog_sc_5" nu are precizat limbajul de programare
+https://github.com/DragutuMatei/blog_sc_5
+
+
+Proiectul Public "tecuci_back" a fost scris in Java
+https://github.com/DragutuMatei/tecuci_back
+
+
+Proiectul Public "tecucinews" a fost scris in HTML
+https://github.com/DragutuMatei/tecucinews
+
+
+Proiectul Public "toma_unghii" a fost scris in JavaScript
+https://github.com/DragutuMatei/toma_unghii
+
+
+Proiectul Public "cel_mai_blana_hackleton" a fost scris in SCSS
+https://github.com/DragutuMatei/cel_mai_blana_hackleton
+
+
+Proiectul Public "ThoborSiteFrontend" a fost scris in TypeScript
+https://github.com/DragutuMatei/ThoborSiteFrontend
+
+
+Proiectul Public "Thobor" a fost scris in JavaScript
+https://github.com/DragutuMatei/Thobor
+
+
+Proiectul Public "vet" a fost scris in HTML
+https://github.com/DragutuMatei/vet
+
+
+Proiectul Public "scavanger_hunt" a fost scris in JavaScript
+https://github.com/DragutuMatei/scavanger_hunt
+
+
+Proiectul Public "test" a fost scris in JavaScript
+https://github.com/DragutuMatei/test
+
+
+Proiectul Public "Thobor-Sezon-6" a fost scris in Java
+https://github.com/DragutuMatei/Thobor-Sezon-6
+
+
+Proiectul Public "PartidulSfinteiBeri" a fost scris in TypeScript
+https://github.com/DragutuMatei/PartidulSfinteiBeri
+
+
+Proiectul Public "FARM_BOOST_frontend" a fost scris in TypeScript
+https://github.com/DragutuMatei/FARM_BOOST_frontend
+
+
+Proiectul Public "FotoClubCNCH" a fost scris in PHP
+https://github.com/DragutuMatei/FotoClubCNCH
+
+
+Proiectul Public "ecommerce_pt_robik" a fost scris in PHP
+https://github.com/DragutuMatei/ecommerce_pt_robik
+
+
+Proiectul Public "frontend-cosmin" a fost scris in JavaScript
+https://github.com/DragutuMatei/frontend-cosmin
+
+
+Proiectul Public "Beb_Blog" a fost scris in PHP
+https://github.com/DragutuMatei/Beb_Blog
+
+
+Proiectul Public "FARM_BOOST_backend" a fost scris in JavaScript
+https://github.com/DragutuMatei/FARM_BOOST_backend
+
+
+Proiectul Public "AdoptAndCare" a fost scris in Python
+https://github.com/DragutuMatei/AdoptAndCare
+
+
+Proiectul Public "siteok" a fost scris in JavaScript
+https://github.com/DragutuMatei/siteok
+
+
+Proiectul Public "Thobor_nights" a fost scris in JavaScript
+https://github.com/DragutuMatei/Thobor_nights
+
+
+Proiectul Public "TeachUself" nu are precizat limbajul de programare
+https://github.com/DragutuMatei/TeachUself
+
+
