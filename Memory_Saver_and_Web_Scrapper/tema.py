@@ -43,15 +43,8 @@ def scrie_aicea(repositories):
         else:
             string_de_scris += ' a fost scris in ' + limbaj.strip()
 
-        f.write(
-            string_de_scris
-        )
-        f.write('\n')
-        f.write(
-            'https://github.com/DragutuMatei/' + denumire_repo.strip() + '\n')
-        
-        f.write('\n')
-        f.write('\n')
+        f.write(string_de_scris + '\n')
+        f.write('https://github.com/DragutuMatei/' + denumire_repo.strip() + '\n\n\n')
 
 scrie_aicea(repositories1)
 scrie_aicea(repositories2)
